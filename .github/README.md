@@ -1,17 +1,17 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 MITSURI  ✘ ROBOT 」──
+    ──「 OBANAI  ✘ ROBOT 」──
 </h2>
 
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝐌𝐈𝐓𝐒𝐔𝐑𝐈](https://t.me/Mitsuri_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [OBANAI](https://t.me/Mitsuri_Robot)**_
 
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/ad2b38da713ceb2f6085b.jpg">
+  <img src="https://te.legra.ph/file/d404cdf4b566b9c6630f3.jpg">
 </p>
 
 <p align="center">
