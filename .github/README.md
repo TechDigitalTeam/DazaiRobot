@@ -5,7 +5,7 @@
 </h2>
 
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [OBANAI](https://t.me/Mitsuri_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [OBANAI](https://t.me/Obanai_ProBot)**_
 
 
 ━━━━━━━━━━━━━━━━━━━━
