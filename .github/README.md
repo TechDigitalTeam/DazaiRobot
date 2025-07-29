@@ -1,12 +1,29 @@
-━━━━━━━━━━━━━━━━━━━━
+# Dazai Robot
 
-<h2 align="center">
-    ──「 OBANAI  ✘ ROBOT 」──
-</h2>
+DazaiRobot is a Telegram bot designed to help you manage your GitHub repositories efficiently. With DazaiRobot, you can perform various GitHub management tasks directly from your Telegram chat, making it easier to stay updated and manage your projects on the go.
 
+## Features
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [OBANAI](https://t.me/Obanai_ProBot)**_
+- **Repository Management**: Create, delete, and update repositories.
+- **Issue Tracking**: Create, list, and manage issues in your repositories.
+- **Pull Request Management**: View and manage pull requests.
+- **Notifications**: Get notifications about updates, issues, and pull requests.
+- **User Management**: Add or remove collaborators from your repositories.
+- **Custom Commands**: Execute custom commands tailored to your workflow.
 
+## Getting Started
+
+### Prerequisites
+
+- A Telegram account.
+- A GitHub account with a personal access token.
+- Python 3.6 or higher.
+
+### Installation
+
+1. Clone the repository:
+
+   
 
 ━━━━━━━━━━━━━━━━━━━━
 
