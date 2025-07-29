@@ -1,6 +1,6 @@
 # Dazai Robot
 
-![Devine Banall Logo](https://files.catbox.moe/jmw2pf.jpg)
+![Dazai](https://files.catbox.moe/jmw2pf.jpg)
 
 DazaiRobot is a powerful Telegram bot designed to help you manage your Telegram groups efficiently. With DazaiRobot, you can automate various tasks, moderate discussions, and enhance the overall experience for your group members.
 
@@ -32,46 +32,71 @@ DazaiRobot is a powerful Telegram bot designed to help you manage your Telegram 
     『 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 』
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Obanai2M/Obanai"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TechDigitalTeam/DazaiRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+## Installation
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
-</h3>
+1. Clone the repository:
 
-<details>
-<summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3></summary>
+   bash
+   git clone https://github.com/yourusername/DazaiRobot.git
+   
+2. Navigate to the project directory:
 
-- Get your [Necessary Variables](https://github.com/Obanai2M/Obanai/blob/main/Horikita/config.py)
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Clone the repository by :
-`git clone https://github.com/shauryanoobhai/DazaiRobot && cd DazaiRobot`
-- Install/Upgrade setuptools by :
-`pip3 install --upgrade pip setuptools`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in config by :
-`vi DazaiRobot/config.py`
+   bash
+   cd DazaiRobot
+   
+3. Install the required dependencies:
 
-Press `I` on the keyboard for editing config
+   bash
+   pip install -r requirements.txt
+   
+4. Set up your environment variables:
 
-Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`python3 -m DazaiRobot`
-- For getting out from tmux session
+   Create a .env file in the root directory and add your credentials:
 
-Press `Ctrl+b` and then `d`
+   env
+   TELEGRAMBOTTOKEN=yourtelegrambot_token
+   
+### Usage
 
-<p align="center">
-  <img src="https://telegra.ph/file/ad2b38da713ceb2f6085b.jpg">
-</p>
+1. Run the bot:
 
+   bash
+   python bot.py
+   
+2. Add the bot to your Telegram group and grant it admin privileges.
+3. Start using the bot's commands in your group.
+
+### Commands
+
+- /start: Start the bot and get a welcome message.
+- /help: List all available commands.
+- /add_member @username: Add a member to the group.
+- /remove_member @username: Remove a member from the group.
+- /ban @username: Ban a member from the group.
+- /unban @username: Unban a previously banned member.
+- /set_welcome_message <message>: Set a custom welcome message for new members.
+- /create_poll <question>: Create a new poll for group members.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to DazaiRobot, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) for the Telegram Bot API wrapper.
+
+---
+
+Feel free to reach out if you have any questions or suggestions!
