@@ -28,7 +28,7 @@ DazaiRobot is a Telegram bot designed to help you manage your GitHub repositorie
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d404cdf4b566b9c6630f3.jpg">
+  <img src="https://files.catbox.moe/288b2j.jpg">
 </p>
 
 <p align="center">
