@@ -2,39 +2,30 @@
 
 ![Devine Banall Logo](https://files.catbox.moe/jmw2pf.jpg)
 
-DazaiRobot is a Telegram bot designed to help you manage your GitHub repositories efficiently. With DazaiRobot, you can perform various GitHub management tasks directly from your Telegram chat, making it easier to stay updated and manage your projects on the go.
+DazaiRobot is a powerful Telegram bot designed to help you manage your Telegram groups efficiently. With DazaiRobot, you can automate various tasks, moderate discussions, and enhance the overall experience for your group members.
 
 ## Features
 
-- **Repository Management**: Create, delete, and update repositories.
-- **Issue Tracking**: Create, list, and manage issues in your repositories.
-- **Pull Request Management**: View and manage pull requests.
-- **Notifications**: Get notifications about updates, issues, and pull requests.
-- **User Management**: Add or remove collaborators from your repositories.
-- **Custom Commands**: Execute custom commands tailored to your workflow.
+- **Member Management**: Add, remove, and ban members easily.
+- **Role Management**: Assign roles and permissions to group members.
+- **Automated Moderation**: Set up rules to automatically warn or mute members for inappropriate behavior.
+- **Custom Commands**: Create custom commands tailored to your group's needs.
+- **Polls and Surveys**: Create polls to engage with your group members.
+- **Welcome Messages**: Send automated welcome messages to new members.
+- **Statistics**: Get insights into group activity and member engagement.
 
 ## Getting Started
 
 ### Prerequisites
 
 - A Telegram account.
-- A GitHub account with a personal access token.
+- A group where you have admin privileges.
 - Python 3.6 or higher.
-
-### Installation
-
-1. Clone the repository:
-
-   
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://files.catbox.moe/288b2j.jpg">
-</p>
-
-<p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
 <h3 align="center">
