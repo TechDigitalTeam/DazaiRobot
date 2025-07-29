@@ -1,5 +1,7 @@
 # Dazai Robot
 
+![Devine Banall Logo](https://files.catbox.moe/jmw2pf.jpg)
+
 DazaiRobot is a Telegram bot designed to help you manage your GitHub repositories efficiently. With DazaiRobot, you can perform various GitHub management tasks directly from your Telegram chat, making it easier to stay updated and manage your projects on the go.
 
 ## Features
