@@ -1,32 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
-<h2 align="center">
-    ──「 𝘿𝘼𝙕𝘼𝙄 ✘ 𝙍𝙊𝘽𝙊𝙏 」──
-</h2>
 
-
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝘿𝘼𝙕𝘼𝙄](https://t.me/Dazaiprobot)**_
-
-
-<p align="center">
-<a href="https://github.com/mikeyy23254/DazaiRobot/stargazers"><img src="https://img.shields.io/github/stars/mikeyy23254/DazaiRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/adi6804/DazaiRobot/network/members"> <img src="https://img.shields.io/github/forks/mikeyy23254/DazaiRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/mikeyy23254/DazaiRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/adi6804/DazaiRobot"> <img src="https://img.shields.io/github/repo-size/mikeyy23254/DazaiRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/mikeyy23254/DazaiRobot/commits/Anonymous04"> <img src="https://img.shields.io/github/last-commit/adi6804/DazaiRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-</p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://telegra.ph/file/d92033060bad9004c4ad5.jpg">
-</p>
-
-<p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
 <h3 align="center">
